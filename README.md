@@ -41,16 +41,20 @@ Use the following gitHub link [Project Repo](https://github.com/Luis0624/fitness
 
 
 Sample Images of Deployed App
-![Working Demo Picture ](Develop/public/images/budgetHome.png)
+![Working Demo Picture ](Develop/public/images/fitnessHome.png)
 
 
-progressive budget tracker App Demo
-![Working Demo Picture ](Develop/public/images/budgetDemo.png)
+Fitness Tracker App Demo
+![Working Demo Picture ](Develop/public/images/fitnessAdding.png)
+
+
+
+![Working Demo Picture ](Develop/public/images/fitnessAdded.png)
 
 
 
 progressive budget tracker App Terminal 
-![Working Demo Picture ](Develop/public/images/budgetTerminal.png)
+![Working Demo Picture ](Develop/public/images/fitnessTerminal.png)
 
 
 ### USAGE
