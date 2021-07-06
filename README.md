@@ -1,6 +1,6 @@
 # fitness-tracker-app
 
-   Fitter Bug is a simple app that allows the user to keep track of their workouts so they can be better organized in the pursuit toward their fitness goals.
+   This is a simple app that allows the user to keep track of their workouts so they can be better organized in the pursuit toward their fitness goals.
 
     The app is built with Node.js, Express, MongoDB, and Mongoose       
 
